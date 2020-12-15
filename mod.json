@@ -1,0 +1,6 @@
+name: "Game-Breaker OverDriver.jar",
+author: "RTOmega",
+description: "Adds a game breaking overdriver...",
+version: "Omega"
+minGameVersion: 120
+

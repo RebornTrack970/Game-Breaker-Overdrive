@@ -1,0 +1,23 @@
+{
+    "type": "OverdriveProjector",
+    "name": "Game-Breaker.exe",
+    "size": 2,
+    "health": 20000,
+    "range": 2000,
+    "speedBoost": 1000000,
+    "phaseRangeBoost": 1000,
+    "speedBoostPhase": 9000000,
+    "category": "effect",
+    "requirements": [
+        {"item": "copper", "amount": 1},
+    ],
+    "consumes": {
+		"power": 0,
+		"items": {
+			"items": [ {"item": "phase-fabric", "amount": 1} ],
+			"booster": true,
+			"optional": true
+		}
+	},
+    "research": "overdrive-projector"
+}
